@@ -18,5 +18,5 @@ Need to do:
 Default Texture Folder:
 -floor
 -wall
--metal! \m/
+-metal
 
