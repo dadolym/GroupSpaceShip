@@ -4,10 +4,15 @@ GroupSpaceShip
 Art 353 Collaborative Project - Build a Explorative Space Ship!
 
 Exporation Ship - Kind of star Trekish? Firefly-ish? Star wars-ish?
+
 -some defences
+
 -living quarters
+
 -engineering / engine room
+
 -bridge
+
 recreation area / holodeck?
 
 *Design inside and out
