@@ -11,9 +11,9 @@ Exporation Ship - Kind of star Trekish? Firefly-ish? Star wars-ish?
 -bridge  
 -recreation area / holodeck?  
 
-*Design inside and out
-*Landing pad, etc. (stretch goal?)
-*Each person design a character to be found on the ship.
+*Design inside and out  
+*Landing pad, etc. (stretch goal?)  
+*Each person design a character to be found on the ship.  
 
 Need to do:  
 -----------
