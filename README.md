@@ -3,7 +3,7 @@ GroupSpaceShip
 
 # Art 353 Collaborative Project - Build a Explorative Space Ship! #
 
-Exporation Ship - Kind of star Trekish? Firefly-ish? Star wars-ish?
+Exploration Ship - Kind of star Trekish? Firefly-ish? Star wars-ish?
 -------------------------------------------------------------------
 -some defences  
 -living quarters  
